@@ -129,10 +129,12 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="server.cpp" />
+    <ClCompile Include="utils\parser.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="recipe.h" />
     <ClInclude Include="server.h" />
+    <ClInclude Include="utils\parser.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

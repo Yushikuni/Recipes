@@ -5,6 +5,7 @@ The Recipe Management System is a backend application designed to facilitate the
 ## TODO:
 - [ ] Have a webpage for recipes
 - [ ] Have a host on Linux server
+- [ ] Have a APIs for communications
 
 ## Features
 
